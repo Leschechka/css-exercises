@@ -1,0 +1,19 @@
+.red {
+	background-color: rgb(255, 0, 0, 0.3);
+	font-family: Verdana 'DejaVu Sans', sans-serif;
+}
+
+#bigblue {
+	color: #0000FF;
+	font-size: 36px;
+}
+
+.bigger {
+	font-size: 24px;
+}
+
+#boldgreen {
+	font-size: 24px;
+	font-weight: bold;
+	background-color: hsla(100, 63%, 52%, 0.54)
+}
